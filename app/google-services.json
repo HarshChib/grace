@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "64727973255",
+    "project_id": "grace-e79c9",
+    "storage_bucket": "grace-e79c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64727973255:android:ce6175da5db9afcc69a722",
+        "android_client_info": {
+          "package_name": "com.example.grace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64727973255-dvf2b7oqo5uuoh1ult3ih8q4g3ong0d6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grace",
+            "certificate_hash": "126c56c4a488a6c974bcb06ebc367f77f1591c24"
+          }
+        },
+        {
+          "client_id": "64727973255-ilv1udpqqatvv08vf58kp7to0aaoh47s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNdNHtZPrBvBgN_T8HnQcoKIxhCz86kVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64727973255-ilv1udpqqatvv08vf58kp7to0aaoh47s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
